@@ -1,1 +1,1 @@
-# Java_codes
+This repository contains a collection of Java programs covering basic to intermediate concepts of Java programming. It includes programs related to arrays, strings, sorting, searching, object-oriented programming, collections, and problem-solving exercises.
